@@ -2,7 +2,8 @@
 
 🌟 Passionate about becoming a **Web Developer**  
 💻 Currently diving deep into **full-stack development**  
-📚 Always learning, always growing — here's a bit about my journey:
+📚 Always learning, always growing — "By day I work, by night I chase my coding dreams."
+here's a bit about my journey:
 
 ---
 
@@ -11,7 +12,7 @@
 - 🔭 I’m interested in **coding, building, and creating meaningful apps**
 - 🌱 Currently learning how to become a **professional Web Developer**
 - 🌐 I’ve already created a few small web projects!
-- 💬 Fun fact: I want to prove to the world that **nothing is impossible** 💪
+- 💬 My favorite quote is: "Dream big. Start small. Act now." 💪
 
 ---
 
